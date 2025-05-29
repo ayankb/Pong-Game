@@ -1,1 +1,3 @@
-# Pong Game Using Python
+# 🏓 Pong Game
+
+A classic Pong game implemented using Python 
